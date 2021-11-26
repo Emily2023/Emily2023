@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emily2023
 - 👀 I’m interested in computer science, business, art & design, and psychology.
 - 🌱 I’m currently learning Java and Python.
-- 💞️ I’m looking to collaborate on projects involving video games and design.
+- 💞️ I’m looking to collaborate on projects involving video games and/or design.
 - 📫 How to reach me ...
 
 <!---
